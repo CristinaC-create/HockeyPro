@@ -1,0 +1,99 @@
+[
+    {
+        "id" : 1,
+        "name" : "Gray",
+        "image" : "helmet-no6",
+        "price" : 199,
+        "description" : "A hockey helmet is essential protective equipment used in ice hockey to safeguard players from head injuries. It features a durable plastic shell with thick internal padding, a secure chinstrap, and either a cage or a clear visor for facial protection. Helmet designs vary based on player position, with goalies wearing specialized masks for enhanced coverage. Many players also use polycarbonate visors to shield their eyes from impact and glare. Helmets are mandatory at all levels of organized hockey to ensure player safety.",
+        "color" : [
+            0.61,
+            0.8,
+            0.89
+        ]
+    },
+    {
+        "id" : 2,
+        "name" : "Black & Yellow",
+        "image" : "helmet-no2",
+        "price" : 159,
+        "description" : "A hockey helmet is essential protective equipment used in ice hockey to safeguard players from head injuries. It features a durable plastic shell with thick internal padding, a secure chinstrap, and either a cage or a clear visor for facial protection. Helmet designs vary based on player position, with goalies wearing specialized masks for enhanced coverage. Many players also use polycarbonate visors to shield their eyes from impact and glare. Helmets are mandatory at all levels of organized hockey to ensure player safety.",
+        "color" : [
+            0.97,
+            0.87,
+            0.49
+        ]
+    },
+    {
+        "id" : 3,
+        "name" : "Green",
+        "image" : "helmet-no3",
+        "price" : 189,
+        "description" : "A hockey helmet is essential protective equipment used in ice hockey to safeguard players from head injuries. It features a durable plastic shell with thick internal padding, a secure chinstrap, and either a cage or a clear visor for facial protection. Helmet designs vary based on player position, with goalies wearing specialized masks for enhanced coverage. Many players also use polycarbonate visors to shield their eyes from impact and glare. Helmets are mandatory at all levels of organized hockey to ensure player safety.",
+        "color" : [
+            0.53,
+            0.82,
+            0.63
+        ]
+    },
+    {
+        "id" : 4,
+        "name" : "Blue",
+        "image" : "helmet-no7",
+        "price" : 89,
+        "description" : "A hockey helmet is essential protective equipment used in ice hockey to safeguard players from head injuries. It features a durable plastic shell with thick internal padding, a secure chinstrap, and either a cage or a clear visor for facial protection. Helmet designs vary based on player position, with goalies wearing specialized masks for enhanced coverage. Many players also use polycarbonate visors to shield their eyes from impact and glare. Helmets are mandatory at all levels of organized hockey to ensure player safety.",
+        "color" : [
+            1,
+            0.56,
+            0.63
+        ]
+    },
+    {
+        "id" : 5,
+        "name" : "White and Black",
+        "image" : "helmet-no8",
+        "price" : 364,
+        "description" : "A hockey helmet is essential protective equipment used in ice hockey to safeguard players from head injuries. It features a durable plastic shell with thick internal padding, a secure chinstrap, and either a cage or a clear visor for facial protection. Helmet designs vary based on player position, with goalies wearing specialized masks for enhanced coverage. Many players also use polycarbonate visors to shield their eyes from impact and glare. Helmets are mandatory at all levels of organized hockey to ensure player safety.",
+        "color" : [
+            0.74,
+            0.65,
+            0.5
+        ]
+    },
+    {
+        "id" : 7,
+        "name" : "Blue & White",
+        "image" : "helmet-no1",
+        "price" : 234,
+        "description" : "A hockey helmet is essential protective equipment used in ice hockey to safeguard players from head injuries. It features a durable plastic shell with thick internal padding, a secure chinstrap, and either a cage or a clear visor for facial protection. Helmet designs vary based on player position, with goalies wearing specialized masks for enhanced coverage. Many players also use polycarbonate visors to shield their eyes from impact and glare. Helmets are mandatory at all levels of organized hockey to ensure player safety.",
+        "color" : [
+            0.64,
+            0.51,
+            0.67
+        ]
+    },
+    {
+        "id" : 6,
+        "name" : "Black",
+        "image" : "helmet-no5",
+        "price" : 279,
+        "description" : "A hockey helmet is essential protective equipment used in ice hockey to safeguard players from head injuries. It features a durable plastic shell with thick internal padding, a secure chinstrap, and either a cage or a clear visor for facial protection. Helmet designs vary based on player position, with goalies wearing specialized masks for enhanced coverage. Many players also use polycarbonate visors to shield their eyes from impact and glare. Helmets are mandatory at all levels of organized hockey to ensure player safety.",
+        "color" : [
+            0.75,
+            0.75,
+            0.8
+        ]
+    },
+    {
+        "id" : 8,
+        "name" : "Red & Blue",
+        "image" : "helmet-no4",
+        "price" : 314,
+        "description" : "A hockey helmet is essential protective equipment used in ice hockey to safeguard players from head injuries. It features a durable plastic shell with thick internal padding, a secure chinstrap, and either a cage or a clear visor for facial protection. Helmet designs vary based on player position, with goalies wearing specialized masks for enhanced coverage. Many players also use polycarbonate visors to shield their eyes from impact and glare. Helmets are mandatory at all levels of organized hockey to ensure player safety.",
+        "color" : [
+            0.35,
+            0.35,
+            0.4
+        ]
+    }
+]
+

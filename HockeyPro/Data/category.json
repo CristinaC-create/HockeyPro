@@ -1,0 +1,83 @@
+[
+    {
+        "id" : 1,
+        "name" : "Bags",
+        "image" : "icon-bag"
+    },
+    {
+        "id" : 2,
+        "name" : "Cheer Gear",
+        "image" : "icon-cheer-gear"
+    },
+    {
+        "id" : 3,
+        "name" : "Energy Drinks",
+        "image" : "icon-energy-drink"
+    },
+    {
+        "id" : 4,
+        "name" : "Helmets",
+        "image" : "icon-helmet"
+    },
+    {
+        "id" : 5,
+        "name" : "Jerseys",
+        "image" : "icon-jersey"
+    },
+    {
+        "id" : 6,
+        "name" : "Nets",
+        "image" : "icon-net"
+    },
+    {
+        "id" : 7,
+        "name" : "Pants",
+        "image" : "icon-pants"
+    },
+    {
+        "id" : 8,
+        "name" : "Pucks",
+        "image" : "icon-puck"
+    },
+    {
+        "id" : 9,
+        "name" : "Shin Pads",
+        "image" : "icon-shin-pads"
+    },
+    {
+        "id" : 10,
+        "name" : "Skoulder Pads",
+        "image" : "icon-shoulder-pads"
+    },
+    {
+        "id" : 11,
+        "name" : "Skates",
+        "image" : "icon-skates"
+    },
+    {
+        "id" : 12,
+        "name" : "Sticks",
+        "image" : "icon-stick"
+    },
+    {
+        "id" : 13,
+        "name" : "Tickets",
+        "image" : "icon-tickets"
+    },
+    {
+        "id" : 14,
+        "name" : "Trophies",
+        "image" : "icon-trophy"
+    },
+    {
+        "id" : 15,
+        "name" : "Water Bottles",
+        "image" : "icon-water-bottle"
+    },
+    {
+        "id" : 16,
+        "name" : "Whistle",
+        "image" : "icon-whistle"
+    }
+]
+
