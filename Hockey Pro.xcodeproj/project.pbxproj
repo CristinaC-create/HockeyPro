@@ -7,16 +7,16 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		F3D9C8522D7BBA5600B16D4B /* IOSApp6.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IOSApp6.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F3D9C8522D7BBA5600B16D4B /* Hockey Pro.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Hockey Pro.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		F3D9C8762D7BC13100B16D4B /* Exceptions for "HockeyPro" folder in "IOSApp6" target */ = {
+		F3D9C8762D7BC13100B16D4B /* Exceptions for "HockeyPro" folder in "Hockey Pro" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = F3D9C8512D7BBA5600B16D4B /* IOSApp6 */;
+			target = F3D9C8512D7BBA5600B16D4B /* Hockey Pro */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
@@ -24,7 +24,7 @@
 		F3D9C8542D7BBA5600B16D4B /* HockeyPro */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				F3D9C8762D7BC13100B16D4B /* Exceptions for "HockeyPro" folder in "IOSApp6" target */,
+				F3D9C8762D7BC13100B16D4B /* Exceptions for "HockeyPro" folder in "Hockey Pro" target */,
 			);
 			path = HockeyPro;
 			sourceTree = "<group>";
@@ -53,7 +53,7 @@
 		F3D9C8532D7BBA5600B16D4B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				F3D9C8522D7BBA5600B16D4B /* IOSApp6.app */,
+				F3D9C8522D7BBA5600B16D4B /* Hockey Pro.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -61,9 +61,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		F3D9C8512D7BBA5600B16D4B /* IOSApp6 */ = {
+		F3D9C8512D7BBA5600B16D4B /* Hockey Pro */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F3D9C8602D7BBA5800B16D4B /* Build configuration list for PBXNativeTarget "IOSApp6" */;
+			buildConfigurationList = F3D9C8602D7BBA5800B16D4B /* Build configuration list for PBXNativeTarget "Hockey Pro" */;
 			buildPhases = (
 				F3D9C84E2D7BBA5600B16D4B /* Sources */,
 				F3D9C84F2D7BBA5600B16D4B /* Frameworks */,
@@ -76,11 +76,11 @@
 			fileSystemSynchronizedGroups = (
 				F3D9C8542D7BBA5600B16D4B /* HockeyPro */,
 			);
-			name = IOSApp6;
+			name = "Hockey Pro";
 			packageProductDependencies = (
 			);
 			productName = HockeyPro;
-			productReference = F3D9C8522D7BBA5600B16D4B /* IOSApp6.app */;
+			productReference = F3D9C8522D7BBA5600B16D4B /* Hockey Pro.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -98,7 +98,7 @@
 					};
 				};
 			};
-			buildConfigurationList = F3D9C84D2D7BBA5600B16D4B /* Build configuration list for PBXProject "IOSApp6" */;
+			buildConfigurationList = F3D9C84D2D7BBA5600B16D4B /* Build configuration list for PBXProject "Hockey Pro" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -112,7 +112,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				F3D9C8512D7BBA5600B16D4B /* IOSApp6 */,
+				F3D9C8512D7BBA5600B16D4B /* Hockey Pro */,
 			);
 		};
 /* End PBXProject section */
@@ -268,7 +268,7 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = HockeyPro/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = "iOSApp6/Hockey Pro";
+				INFOPLIST_KEY_CFBundleDisplayName = "Hockey Pro";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
@@ -296,7 +296,7 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = HockeyPro/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = "iOSApp6/Hockey Pro";
+				INFOPLIST_KEY_CFBundleDisplayName = "Hockey Pro";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
@@ -316,7 +316,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		F3D9C84D2D7BBA5600B16D4B /* Build configuration list for PBXProject "IOSApp6" */ = {
+		F3D9C84D2D7BBA5600B16D4B /* Build configuration list for PBXProject "Hockey Pro" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F3D9C85E2D7BBA5800B16D4B /* Debug */,
@@ -325,7 +325,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F3D9C8602D7BBA5800B16D4B /* Build configuration list for PBXNativeTarget "IOSApp6" */ = {
+		F3D9C8602D7BBA5800B16D4B /* Build configuration list for PBXNativeTarget "Hockey Pro" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F3D9C8612D7BBA5800B16D4B /* Debug */,
